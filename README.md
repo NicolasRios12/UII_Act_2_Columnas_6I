@@ -1,16 +1,27 @@
-# myapp
 
-A new Flutter project.
+## Especificaciones del Diseño
 
-## Getting Started
+### Paleta de Colores
+* **Fondo de la Aplicacion (Scaffold):** #F0F4F8
+* **Barra de Navegacion (AppBar):** #BBDEFB
 
-This project is a starting point for a Flutter application.
+### Componentes del AppBar
+* **Leading:** Icono dog paw (Icons.pets).
+* **Title:** Dog club.
+* **Background Color:** #BBDEFB.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Estructura de la Interfaz
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Configuracion de Tarjetas
+1.  **Alineacion:** Ubicarse en el centro de la pantalla.
+2.  **Dimensiones:** Llenar la pantalla horizontalmente (Match Parent).
+3.  **Composicion Interna (de izquierda a derecha):**
+    * **Imagen:** Resolucion cuadrada (Aspect Ratio 1:1) cargada desde la web mediante URL.
+    * **Contenido Textual:** * Texto superior en estilo estandar.
+        * Texto inferior en formato negrita (Bold).
+
+---
+## Ejecucion
+<img width="378" height="676" alt="image" src="https://github.com/user-attachments/assets/346da04a-ae0c-4446-847f-5b853d12b0a8" />
