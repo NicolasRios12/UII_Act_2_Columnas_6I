@@ -24,10 +24,10 @@
 
 ---
 ## URL a usar en tarjetas
-Tarjeta 1:https://raw.githubusercontent.com/NicolasRios12/imagenes-para-flutter-6I-fecha-11-feb-2026/refs/heads/main/pexels-photo-3114143.webp
-Tarjeta 2:https://raw.githubusercontent.com/NicolasRios12/imagenes-para-flutter-6I-fecha-11-feb-2026/refs/heads/main/pexels-photo-1108099.webp
-Tarjeta 3:https://raw.githubusercontent.com/NicolasRios12/imagenes-para-flutter-6I-fecha-11-feb-2026/refs/heads/main/perro2.png
-Tarjeta 4:https://raw.githubusercontent.com/NicolasRios12/imagenes-para-flutter-6I-fecha-11-feb-2026/refs/heads/main/360_F_1710569501_7Tx8DS93v2eqGmTYEu67Bt9PqmqND0pK.webp
-Tarjeta 5:https://raw.githubusercontent.com/NicolasRios12/imagenes-para-flutter-6I-fecha-11-feb-2026/refs/heads/main/border-collie-inteligente_25a6932c_260112115754_800x800.webp
+*Tarjeta 1:https://raw.githubusercontent.com/NicolasRios12/imagenes-para-flutter-6I-fecha-11-feb-2026/refs/heads/main/pexels-photo-3114143.webp.
+*Tarjeta 2:https://raw.githubusercontent.com/NicolasRios12/imagenes-para-flutter-6I-fecha-11-feb-2026/refs/heads/main/pexels-photo-1108099.webp.
+*Tarjeta 3:https://raw.githubusercontent.com/NicolasRios12/imagenes-para-flutter-6I-fecha-11-feb-2026/refs/heads/main/perro2.png.
+*Tarjeta 4:https://raw.githubusercontent.com/NicolasRios12/imagenes-para-flutter-6I-fecha-11-feb-2026/refs/heads/main/360_F_1710569501_7Tx8DS93v2eqGmTYEu67Bt9PqmqND0pK.webp.
+*Tarjeta 5:https://raw.githubusercontent.com/NicolasRios12/imagenes-para-flutter-6I-fecha-11-feb-2026/refs/heads/main/border-collie-inteligente_25a6932c_260112115754_800x800.webp.
 ## Ejecucion
 <img width="378" height="676" alt="image" src="https://github.com/user-attachments/assets/346da04a-ae0c-4446-847f-5b853d12b0a8" />
